@@ -2,7 +2,7 @@
 
 - 🔭 I work in Developer Relations.
 - 🌱 I'm currently learning AI/ML.
-- 🤗 I like GitHub Copilots.
+- 🤗 I like GitHub Copilot.
 - 📹 My YouTube channel: [@Mr.Mooooo](https://www.youtube.com/@Mr.Mooooo) 😎
 
 <!--
